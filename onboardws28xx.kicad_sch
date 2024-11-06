@@ -607,6 +607,9 @@
     (uuid ff9dc07e-a6b6-49d4-9d8f-321a9e1b5ef2)
   )
 
+  (no_connect (at 265.43 147.955) (uuid 024df024-357e-4b53-8a85-0b536b478deb))
+  (no_connect (at 265.43 150.495) (uuid 51ede82b-dad2-4230-bad6-37be880ab439))
+
   (wire (pts (xy 265.43 33.655) (xy 275.59 33.655))
     (stroke (width 0) (type default))
     (uuid 006917f0-41e4-4261-8453-6b5fa656139f)
