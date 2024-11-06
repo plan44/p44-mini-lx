@@ -632,7 +632,7 @@
     "netclass_patterns": [
       {
         "netclass": "Power33",
-        "pattern": "+3V3"
+        "pattern": "+3.3V"
       },
       {
         "netclass": "Power33",
